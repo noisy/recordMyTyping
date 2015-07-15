@@ -3,7 +3,7 @@
 
 ### USAGE
 
-    ./record.sh /full/path/to/repository EPISODE_NUMBER
+    ./record.sh /full/path/to/repository <link-to-repo-where-tags-will-be-uploaded> EPISODE_NUMBER
 
 
 This will produce a lot of tags, one for each second. Then you could download code from specific video time stamp.
